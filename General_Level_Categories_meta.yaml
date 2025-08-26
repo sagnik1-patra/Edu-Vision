@@ -1,0 +1,10 @@
+rows: 12032
+cols: 1
+columns:
+- General-level Categories
+dtypes:
+  General-level Categories: object
+non_null_counts:
+  General-level Categories: 12032
+object_length_p99:
+  General-level Categories: 33

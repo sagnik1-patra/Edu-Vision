@@ -1,0 +1,17 @@
+{
+  "embeddings_file": "C:\\Users\\sagni\\Downloads\\Edu Vision\\archive\\Word Embeddings\\MOOC_300d.csv",
+  "topics_file": "C:\\Users\\sagni\\Downloads\\Edu Vision\\archive\\Topic Vectors\\DT300.csv",
+  "n_samples": 12032,
+  "n_features": 300,
+  "n_classes": 4,
+  "test_size": 0.2,
+  "random_state": 42,
+  "epochs": 12,
+  "topk_saved": 5,
+  "have_predict_proba": true,
+  "metrics": {
+    "final_train_accuracy": 0.9598961038961039,
+    "final_test_accuracy": 0.9551308683007894,
+    "final_test_logloss": 1.505596089694714
+  }
+}

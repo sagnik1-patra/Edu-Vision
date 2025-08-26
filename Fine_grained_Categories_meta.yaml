@@ -1,0 +1,10 @@
+rows: 12032
+cols: 1
+columns:
+- Fine-grained Categories
+dtypes:
+  Fine-grained Categories: object
+non_null_counts:
+  Fine-grained Categories: 12032
+object_length_p99:
+  Fine-grained Categories: 40

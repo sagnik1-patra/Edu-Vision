@@ -1,0 +1,15 @@
+=== EduVision: Embeddings -> Topic ArgMax ===
+
+Embeddings: C:\Users\sagni\Downloads\Edu Vision\archive\Word Embeddings\MOOC_300d.csv
+Topics: C:\Users\sagni\Downloads\Edu Vision\archive\Topic Vectors\DT300.csv
+
+              precision    recall  f1-score   support
+
+     topic_1     0.9587    0.9961    0.9771      2308
+     topic_2     0.0000    0.0000    0.0000        92
+     topic_3     0.0000    0.0000    0.0000         7
+
+    accuracy                         0.9551      2407
+   macro avg     0.3196    0.3320    0.3257      2407
+weighted avg     0.9193    0.9551    0.9369      2407
+
